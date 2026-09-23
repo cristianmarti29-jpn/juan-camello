@@ -4,7 +4,7 @@ const fs = require('fs');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const PRODUCTS_FILE = path.join(__dirname, 'data', 'products.json');
+const PRODUCTS_FILE = path.join(__dirname, 'public', 'data', 'products.json');
 
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));

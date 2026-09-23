@@ -102,7 +102,7 @@ function cardTemplate(p){
 async function init(){
   grid.innerHTML = `<p style="color:var(--cream-dim)">Cargando catálogo…</p>`;
   try{
-    const res = await fetch('/api/products');
+    const res = await fetch('/data/products.json');
     products = await res.json();
     renderFilters();
     renderGrid();
