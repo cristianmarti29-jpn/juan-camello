@@ -1,0 +1,86 @@
+[
+  {
+    "id": "jean-negro-destruido",
+    "name": "Jean Negro Destruido",
+    "categoria": "Jeans",
+    "precio": 130000,
+    "imagen": "/assets/products/jean-negro-destruido.jpg",
+    "tallas": [
+      { "talla": "S", "stock": 4 },
+      { "talla": "M", "stock": 6 },
+      { "talla": "L", "stock": 4 },
+      { "talla": "XL", "stock": 2 }
+    ],
+    "descripcion": "Jean negro estilo destroyed con rasgados trenzados en las piernas."
+  },
+  {
+    "id": "jean-azul-cruces",
+    "name": "Jean Azul Cruces",
+    "categoria": "Jeans",
+    "precio": 135000,
+    "imagen": "/assets/products/jean-azul-cruces.jpg",
+    "tallas": [
+      { "talla": "S", "stock": 3 },
+      { "talla": "M", "stock": 5 },
+      { "talla": "L", "stock": 5 },
+      { "talla": "XL", "stock": 0 }
+    ],
+    "descripcion": "Jean azul lavado con parches de cruces bordadas."
+  },
+  {
+    "id": "jean-beige-cruces",
+    "name": "Jean Beige Cruces Cuero",
+    "categoria": "Jeans",
+    "precio": 150000,
+    "imagen": "/assets/products/jean-beige-cruces.jpg",
+    "tallas": [
+      { "talla": "S", "stock": 2 },
+      { "talla": "M", "stock": 4 },
+      { "talla": "L", "stock": 3 },
+      { "talla": "XL", "stock": 3 }
+    ],
+    "descripcion": "Jean beige con parches de cruces en cuero sintético."
+  },
+  {
+    "id": "camiseta-crosses-rayas",
+    "name": "Camiseta Crosses Rayas",
+    "categoria": "Camisetas",
+    "precio": 95000,
+    "imagen": "/assets/products/camiseta-crosses-rayas.jpg",
+    "tallas": [
+      { "talla": "S", "stock": 6 },
+      { "talla": "M", "stock": 8 },
+      { "talla": "L", "stock": 6 },
+      { "talla": "XL", "stock": 4 }
+    ],
+    "descripcion": "Camiseta oversize a rayas con estampado \"Crosses\"."
+  },
+  {
+    "id": "camiseta-saint-angeles",
+    "name": "Camiseta Saint Angeles",
+    "categoria": "Camisetas",
+    "precio": 90000,
+    "imagen": "/assets/products/camiseta-saint-angeles.jpg",
+    "tallas": [
+      { "talla": "S", "stock": 5 },
+      { "talla": "M", "stock": 7 },
+      { "talla": "L", "stock": 5 },
+      { "talla": "XL", "stock": 2 }
+    ],
+    "descripcion": "Camiseta negra oversize con estampado de ángel y alas."
+  },
+  {
+    "id": "camiseta-daybreak",
+    "name": "Camiseta Daybreak",
+    "categoria": "Camisetas",
+    "precio": 92000,
+    "imagen": "/assets/products/camiseta-daybreak.jpg",
+    "tallas": [
+      { "talla": "S", "stock": 4 },
+      { "talla": "M", "stock": 6 },
+      { "talla": "L", "stock": 6 },
+      { "talla": "XL", "stock": 3 }
+    ],
+    "descripcion": "Camiseta oversize color crema con estampado gráfico de calaveras."
+  }
+]
