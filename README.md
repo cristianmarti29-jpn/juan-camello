@@ -56,14 +56,5 @@ Edita `data/products.json`. Cada producto:
 
 Un `stock` en 0 marca la talla como agotada automáticamente en la tienda.
 
-## Contactos ya configurados
 
-- YouTube: botón de "play" en la portada
-- WhatsApp: botón "Comprar por WhatsApp" en cada producto (número:
-  +57 320 893 0028) — arma el mensaje automáticamente con el nombre y la talla
-- Instagram, TikTok y correo: iconos en la portada
-
-## Publicarlo en internet
-
-Puedes subir esta carpeta a cualquier hosting que soporte Node.js (Render,
 Railway, un VPS, etc.). Solo necesita correr `npm install && npm start`.
